@@ -1,0 +1,6 @@
+framework module Pods_SocialLoginIOS {
+  umbrella header "Pods-SocialLoginIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
